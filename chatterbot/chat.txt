@@ -1,0 +1,27 @@
+hello
+hi Buddy ! 
+heyyy
+hello
+hola
+hi Buddy !
+how are you?
+I am doing great these days 
+thank you
+what is your location
+I live in Hubballi
+which language you talk?
+I mostly talk in english
+which is the best browser?
+Google is the best browser, even i use google browser
+which player do you like most?
+Cristiano Ronaldo... as he is the best player ever
+how is the weather in your city?
+the weather is awesome as always in my city
+what is chatterbot?
+ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. 
+what is tkinter?
+Tkinter is the most commonly used library for developing GUI in Python. It is a standard Python interface to the Tk GUI toolkit shipped with Python.
+what is chatbot trainer?
+This is used for training chatbot which has several classes of built-in-functions to train the chatbot to respond accurately.
+what is pyttsx3?
+pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.	
